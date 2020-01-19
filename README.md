@@ -1,2 +1,3 @@
 # raffa-world
-Siapa anda sebenarnya?
+Siapa anda sebenarnya? Untuk tahu 
+Segala tentang anda,anda itu mesin
